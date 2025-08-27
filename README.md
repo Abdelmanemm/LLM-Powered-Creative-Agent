@@ -24,8 +24,8 @@ The agent follows this loop:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [(https://github.com/Abdelmanemm/LLM-Powered-Creative-Agent).git]
-    cd [YourRepoName]
+    git clone https://github.com/Abdelmanemm/LLM-Powered-Creative-Agent.git
+    cd LLM-Powered-Creative-Agent
     ```
 
 2.  **Create a virtual environment:**
